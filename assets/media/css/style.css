@@ -14426,7 +14426,7 @@ img {
 	margin-top: 20px;
 	border: 0;
 	transition: all ease 175ms;
-	background: linear-gradient(266.62deg, #B8FD33 -3.7%, #FFFF00 94.09%);
+	background: linear-gradient(90.23deg, #198AB0 0.18%, #30C9FC 99.81%);
 	border-radius: 6px;
 	font-weight: 700;
 	font-size: 20px;
@@ -14434,7 +14434,7 @@ img {
 	padding: 18px 20px 20px;
 	width: 100%;
 	text-align: center;
-	color: #101438
+	color: #fff
 }
 
 #footer[data-variant="1"] .form form button:hover {
@@ -15055,7 +15055,7 @@ img {
 	color: #fff;
 	font-weight: 700;
 	padding: 1px 27px 4px;
-	background: linear-gradient(266.96deg, #FF3F4B -3.46%, #FFD53F 140.31%);
+	background: linear-gradient(90.23deg, #198AB0 0.18%, #30C9FC 99.81%);
 	border-radius: 200px
 }
 
@@ -15074,7 +15074,7 @@ img {
 
 .block[data-id="2-1"] .item .item-additional .item-additional-image {
 	width: 100%;
-	max-width: 55px
+	max-width: 40px
 }
 
 .block[data-id="2-1"] .item .item-additional .item-additional-image img {
@@ -15369,12 +15369,12 @@ img {
 }
 
 .block[data-id="3-1"] .item .item-action button {
-	background: linear-gradient(266.62deg, #B8FD33 -3.7%, #FFFF00 94.09%);
+	background: linear-gradient(90.23deg, #198AB0 0.18%, #30C9FC 99.81%);
 	border-radius: 200px;
 	border: 0;
 	outline: none;
 	padding: 12px 24px 14px;
-	color: #101438;
+	color: #fff;
 	font-size: 14px;
 	line-height: 100%;
 	font-weight: 700;
