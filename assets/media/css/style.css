@@ -14069,7 +14069,7 @@ img {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	gap: 60px;
+	gap: 40px;
 }
 
 #header[data-variant="1"] .logo {}
@@ -16191,12 +16191,12 @@ img {
 
 .popup[data-id="1-1"] .form button {
 	margin-top: 25px;
-	background: linear-gradient(266.62deg, #B8FD33 -3.7%, #FFFF00 94.09%);
+	background: linear-gradient(90.23deg, #198AB0 0.18%, #30C9FC 99.81%);
 	border-radius: 6px;
 	width: 100%;
 	padding: 16px 20px 18px;
 	font-weight: 700;
-	color: #101438;
+	color: #fff;
 	font-size: 20px;
 	line-height: 160%;
 	border: 0;
